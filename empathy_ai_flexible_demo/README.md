@@ -60,9 +60,4 @@ http://127.0.0.1:7862
 - `Chi tiet.md`: sơ đồ dạng Mermaid và mô tả logic hệ thống
 - `KT HeThong.png`: sơ đồ kiến trúc hệ thống dạng ảnh
 
-## 5) Lưu ý học thuật
 
-Đây là bản demo chạy local, tối ưu để trình bày luận văn và minh họa kiến trúc. Các nhánh hiện dùng luật/đặc trưng nhẹ để chạy trên máy cá nhân. Khi nâng lên bản nghiên cứu sâu hơn, bạn có thể thay thế:
-- Văn bản -> PhoBERT/BERT tiếng Việt
-- Khuôn mặt -> FER/DeepFace/CNN
-- Âm thanh -> wav2vec2, CNN-BiLSTM hoặc SER model chuyên dụng
