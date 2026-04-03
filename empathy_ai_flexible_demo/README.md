@@ -57,8 +57,8 @@ http://127.0.0.1:7862
 
 ## 4) Tệp sơ đồ kiến trúc
 
-- `architecture.md`: sơ đồ dạng Mermaid và mô tả logic hệ thống
-- `architecture_flexible.png`: sơ đồ kiến trúc hệ thống dạng ảnh
+- `Chi tiet.md`: sơ đồ dạng Mermaid và mô tả logic hệ thống
+- `KT HeThong.png`: sơ đồ kiến trúc hệ thống dạng ảnh
 
 ## 5) Lưu ý học thuật
 
